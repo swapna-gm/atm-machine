@@ -56,6 +56,6 @@ src/
   context/             # Context API
   services/            # Local storage and API stubs
   constants/           # Card images/constants
-  styles/              # Tailwind & custom CSS
+  hooks/              # Custom hooks
 ```
 
