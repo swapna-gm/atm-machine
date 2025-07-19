@@ -1,0 +1,17 @@
+.buttonContentWrapper {
+    align-items: center;
+    font-size: 12px;
+}
+
+.imageWrapper {
+    background-color: #126cae;
+    width: 500px;
+    padding: 15px 100px;
+    border-radius: 10px;
+}
+
+.graffiti {
+    position: absolute;
+    right: 20px;
+    top: 50px;
+}
